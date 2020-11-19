@@ -1,2 +1,3 @@
 # Augustyn_CV_Analyzer
 A Python Script to analyze cyclic voltammetry data in the Augustyn group
+Testing ability to text edit for github workflow.
